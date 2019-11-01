@@ -26,6 +26,7 @@
 ## 3.特征学习方法及其扩展
 > 主要是浅层优化算法
 
+
 | paper | 来源 | 备注 | 代码复现 | 简称 |
 | :----: | :----:  | :----: | :----:  | :----: |
 |Domain Adaptation via Transfer Component Analysis|		IEEE TNNLS|	必读2||TCA|
@@ -46,12 +47,40 @@
 |Deep Residual Learning for Image Recognition			|CVPR 2016 Best paper|必读1|需要|ResNet|
 |Densely Connected Convolutional Networks			|CVPR 2017 Best paper|必读1|需要|DenseNet|
 |Deep Networks with Stochastic Depth			|ECCV 2016 spotlight|必读2|||
-|ImageNet Classiﬁcation with Deep Convolutional Neural Networks			|NIPS||必读1|AlexNet|
+|ImageNet Classiﬁcation with Deep Convolutional Neural Networks			|NIPS|必读1||AlexNet|
 |Very Deep Convolutional Networks for Large-Scale Image Recognition			||必读1||VGG|
 |Squeeze-and-Excitation Networks			|CVPR|必读1||SENet|
 |Going deeper with convolutions			|NIPS|必读2||InceptionV1/GoogLeNet|
 |Rethinking the Inception Architecture for Computer Vision			|CVPR|必读2||InceptionV2/V3|
 |Inception-v4, Inception-ResNet and the Impact of Residual Connections on Learning			|CVPR|必读2||InceptionV4/Inception-ResNet|
 |Aggregated Residual Transformations for Deep Neural Networks			|CVPR|必读1||ResNext|
-|Batch Normalization Accelerating Deep Network Training by Reducing Internal Covariate Shift		|ICML||必读1|BN|
+|Batch Normalization Accelerating Deep Network Training by Reducing Internal Covariate Shift		|ICML|必读1 ||BN|
+
+## 5. 生成对抗网络（GAN）
+| paper | 来源 | 备注 | 代码复现 | 简称 |
+| :----: | :----:  | :----: | :----:  | :----: |
+|Generative Adversarial Nets				|NIPS	|必读1	|需要	|GAN|
+|Conditional Generative Adversarial Nets|					|必读1|	需要|	CGAN|
+|Self-Attention Generative Adversarial Networks				|CVPR	|必读2		||
+|Wasserstein GAN					||必读1		||WGAN|
+|Least Squares Generative Adversarial Networks|				ICCV|	必读2||		LSGAN|
+
+## 6. 深度迁移学习
+> Deep Domain Adaptation，针对分类问题，**研究重点！！**
+
+| paper | 来源 | 备注 | 代码复现 | 简称 |
+| :----: | :----:  | :----: | :----:  | :----: |
+|How transferable are features in deep neural networks|				NIPS 2014|	必读1|||		
+|Learning Transferable Features with Deep Adaptation Networks|				ICML 2015|	必读1|	需要|	DAN|
+|Unsupervised Domain Adaptation by Backpropagation|				ICML 2015|	必读1|需要|	DANN/RevGrad|
+|Unsupervised Domain Adaptation with Residual Transfer Networks|NIPS 2015|	必读2||		RTN|
+|CyCADA: Cycle-Consistent Adversarial Domain Adaptation|				ICML	|必读2		||CyCADA|
+|Maximum Classifier Discrepancy for Unsupervised Domain Adaptation|				CVPR 2018|	必读1|	需要|	MCD|
+|Multi-Adversarial Domain Adaptation|				AAAI 2018|	必读2|	|	MADA|
+|Sliced Wasserstein Discrepancy for Unsupervised Domain Adaptation|				CVPR 2019|	必读1|需要|	SWD|
+|Moment Matching for Multi-Source Domain Adaptation|				ICML 2019|	必读2|||		
+|Bridging Theory and Algorithm for Domain Adaptation|				ICML 2019|	必读1||		MDD|
+|Conditional Adversarial Domain Adaptation|				NIPS 2019|	必读1||		CDAN|
+|Contrastive Adaptation Network for Unsupervised Domain Adaptation|				CVPR 2018	|必读1||		CAN|
+
 
