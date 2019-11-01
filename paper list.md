@@ -37,3 +37,21 @@
 |Joint Geometrical and Statistical Alignment for Visual Domain Adaptation|CVPR 2018|必读1||JGSA|
 |Visual Domain Adaptation with Manifold Embedded Distribution Alignment|ACMMM 2018|必读2||EDA|
 |Adaptation Regularization: A General Framework for Transfer Learning|IEEE TKDE|必读1|		
+
+## 4. 纯深度学习网络结构研究
+> 基础中的基础！推荐先看Stanford CS231n课程，百度搜索即可，可以快速了解深度学习
+
+| paper | 来源 | 备注 | 代码复现 | 简称 |
+| :----: | :----:  | :----: | :----:  | :----: |
+|Deep Residual Learning for Image Recognition			|CVPR 2016 Best paper|必读1|
+|Densely Connected Convolutional Networks			|CVPR 2017 Best paper|必读1|
+|Deep Networks with Stochastic Depth			|ECCV 2016 spotlight|必读2|
+|ImageNet Classiﬁcation with Deep Convolutional Neural Networks			|NIPS|必读1|
+|Very Deep Convolutional Networks for Large-Scale Image Recognition			||必读1|
+|Squeeze-and-Excitation Networks			|CVPR|必读1|
+|Going deeper with convolutions			|NIPS|必读2|
+|Rethinking the Inception Architecture for Computer Vision			|CVPR|必读2|
+|Inception-v4, Inception-ResNet and the Impact of Residual Connections on Learning			|CVPR|必读2|
+|Aggregated Residual Transformations for Deep Neural Networks			|CVPR|必读1|
+|Batch Normalization Accelerating Deep Network Training by Reducing Internal Covariate Shift		|ICML|必读1|
+
