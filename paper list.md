@@ -43,15 +43,15 @@
 
 | paper | 来源 | 备注 | 代码复现 | 简称 |
 | :----: | :----:  | :----: | :----:  | :----: |
-|Deep Residual Learning for Image Recognition			|CVPR 2016 Best paper|必读1|
-|Densely Connected Convolutional Networks			|CVPR 2017 Best paper|必读1|
+|Deep Residual Learning for Image Recognition			|CVPR 2016 Best paper|必读1|需要|ResNet|
+|Densely Connected Convolutional Networks			|CVPR 2017 Best paper|必读1|需要|DenseNet|
 |Deep Networks with Stochastic Depth			|ECCV 2016 spotlight|必读2|
-|ImageNet Classiﬁcation with Deep Convolutional Neural Networks			|NIPS|必读1|
-|Very Deep Convolutional Networks for Large-Scale Image Recognition			||必读1|
-|Squeeze-and-Excitation Networks			|CVPR|必读1|
-|Going deeper with convolutions			|NIPS|必读2|
-|Rethinking the Inception Architecture for Computer Vision			|CVPR|必读2|
-|Inception-v4, Inception-ResNet and the Impact of Residual Connections on Learning			|CVPR|必读2|
-|Aggregated Residual Transformations for Deep Neural Networks			|CVPR|必读1|
-|Batch Normalization Accelerating Deep Network Training by Reducing Internal Covariate Shift		|ICML|必读1|
+|ImageNet Classiﬁcation with Deep Convolutional Neural Networks			|NIPS|必读1|AlexNet|
+|Very Deep Convolutional Networks for Large-Scale Image Recognition			||必读1|VGG|
+|Squeeze-and-Excitation Networks			|CVPR|必读1|SENet|
+|Going deeper with convolutions			|NIPS|必读2|InceptionV1/GoogLeNet|
+|Rethinking the Inception Architecture for Computer Vision			|CVPR|必读2|InceptionV2/V3|
+|Inception-v4, Inception-ResNet and the Impact of Residual Connections on Learning			|CVPR|必读2|InceptionV4/Inception-ResNet|
+|Aggregated Residual Transformations for Deep Neural Networks			|CVPR|必读1|ResNext|
+|Batch Normalization Accelerating Deep Network Training by Reducing Internal Covariate Shift		|ICML|必读1|BN|
 
