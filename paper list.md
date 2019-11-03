@@ -30,10 +30,10 @@
 | paper | 来源 | 备注 | 代码复现 | 简称 |
 | :----: | :----:  | :----: | :----:  | :----: |
 |Domain Adaptation via Transfer Component Analysis|		IEEE TNNLS|	必读2||TCA|
-|Transfer Feature Learning with Joint Distribution Adaptation|CVPR|必读1|需复现看代码|JDA|
+|Transfer Feature Learning with Joint Distribution Adaptation|CVPR|必读1|需要|JDA|
 |Transfer Joint Matching for Unsupervised Domain Adaptation|CVPR|必读2||TJM|
 |Unsupervised Domain Adaptation With Label and Structural Consistency|IEEE TIP|必读1||		
-|Domain Invariant and Class Discriminative Feature Learning for Visual Domain Adapation|IEEE TIP|必读1|需复现看代码|DICD|
+|Domain Invariant and Class Discriminative Feature Learning for Visual Domain Adapation|IEEE TIP|必读1|需要|DICD|
 |Discriminative and Geometry Aware Unsupervised Domain Adaptation||必读2||		
 |Joint Geometrical and Statistical Alignment for Visual Domain Adaptation|CVPR 2018|必读1||JGSA|
 |Visual Domain Adaptation with Manifold Embedded Distribution Alignment|ACMMM 2018|必读2||EDA|
@@ -83,4 +83,78 @@
 |Conditional Adversarial Domain Adaptation|				NIPS 2019|	必读1||		CDAN|
 |Contrastive Adaptation Network for Unsupervised Domain Adaptation|				CVPR 2018	|必读1||		CAN|
 
+## 7. Partial Domain Adaptation （PDA）
 
+| paper | 来源 | 备注 | 代码复现 | 简称 |
+| :----: | :----:  | :----: | :----:  | :----: |
+|Partial Transfer Learning with Selective Adversarial Networks|				CVPR 2018|	必读1|	需要|	SAN|
+|Importance Weighted Adversarial Nets for Partial Domain Adaptation|				CVPR 2018|	必读1|	需要|	IWAN|
+|Partial Adversarial Domain Adaptation|				ECCV 2018|	必读1|需要|	PADA|
+|Learning to Transfer Examples for Partial Domain Adaptation|CVPR 2019|	必读1|	需要|	ETN|
+Universal Domain Adaptation|				CVPR 2019|	必读2|||
+
+## 8.  迁移学习在Semantic Segmentation中的应用
+
+| paper | 来源 | 备注 | 代码复现 | 简称 |
+| :----: | :----:  | :----: | :----:  | :----: |
+|Fully Convolutional Networks for Semantic Segmentation|				CVPR 2015|	必读1|	|	FCN|
+|Structured Knowledge Distillation for Semantic Segmentation|				ICCV 2019|	必读2|||		
+|ACFNet：Attentional Class Feature Network for Semantic Segmentation|				ICCV 2019|	必读1|||		
+|CyCADA - Cycle-Consistent Adversarial Domain Adaptation|				ICML|	必读1|	|	CyCADA|
+|Fully Convolutional Adaptation Networks for Semantic Segmentation|				CVPR 2018|	必读1|||		
+|Domain Adaptation for Structured Output via Discriminative Patch Representations|				ICCV 2019	|必读1|||		
+|Taking A Closer Look at Domain Shift: Category-level Adversaries for Semantics Consistent Domain Adaptation|				CVPR 2019|	必读1|||		
+|ADVENT: Adversarial Entropy Minimization for Domain Adaptation in Semantic Segmentation|				CVPR 2019|	必读1|		|ADVENT|
+
+## 9. 迁移学习在Object Detection中的应用
+
+| paper | 来源 | 备注 | 代码复现 | 简称 |
+| :----: | :----:  | :----: | :----:  | :----: |
+|Domain Adaptive Faster R-CNN for Object Detection in the Wild|				CVPR 2018|	必读2|||
+|Multi-adversarial Faster-RCNN for Unrestricted Object Detection|				ICCV 2019|	必读2|||
+
+## 10. 迁移学习在Video Classification中的应用
+
+| paper | 来源 | 备注 | 代码复现 | 简称 |
+| :----: | :----:  | :----: | :----:  | :----: |
+|Temporal Attentive Alignment for Large-Scale Video Domain Adaptation|				ICCV 2019	|必读1|||
+
+## 11. 迁移学习在Person Re-identification中的应用
+
+| paper | 来源 | 备注 | 代码复现 | 简称 |
+| :----: | :----:  | :----: | :----:  | :----: |
+|Image-Image Domain Adaptation with Preserved Self-Similarity and Domain-Dissimilarity for Person Re-identification|				CVPR 2018|	必读1|||
+|Self-similarity Grouping: A Simple Unsupervised Cross Domain Adaptation Approach for Person Re-identification|				ICCV 2019|	必读1|||
+
+## 12. 迁移学习理论文章
+
+| paper | 来源 | 备注 | 代码复现 | 简称 |
+| :----: | :----:  | :----: | :----:  | :----: |
+|Analysis of Representations for Domain Adaptation|				NIPS|	必读1|||		
+|A Theory of Learning from Different Domains|				|	必读1|		||
+|A Kernel Method for the Two Sample Problem|				NIPS|	必读1|		|MMD的全面分析|
+
+## 其他应该看论文
+
+| paper | 来源 | 备注 | 代码复现 | 简称 |
+| :----: | :----:  | :----: | :----:  | :----: |
+|Distance Metric Learning for Large Margin Nearest Neighbor Classification|				NIPS|	必读1|	|	LMNN|
+|FaceNet - A Unified Embedding for Face Recognition and Clustering|					必读1|	|	Triplet Loss|
+
+## 顶会接收论文网站
+
+* [CVPR/ICCV/ECCV](http://openaccess.thecvf.com/CVPR2018.py)
+* [ICML 2019](https://icml.cc/Conferences/2019/ScheduleMultitrack)
+* [AAAI](https://icml.cc/Conferences/2019/ScheduleMultitrack)
+* [ICLR 2019](https://openreview.net/group?id=ICLR.cc/2019/Conference#accepted-oral-papers)
+* [NIPS 2018](http://papers.nips.cc/book/advances-in-neural-information-processing-systems-31-2018)
+
+## 迁移学习资源汇总网站
+
+* [awsome DA](https://github.com/zhaoxin94/awsome-domain-adaptation) _貌似只有论文_
+* [迁移学习](http://transferlearning.xyz/)
+
+## 大牛主页
+* [清华 黄高老师](http://www.gaohuang.net/)
+* [清华 龙明盛老师](http://ise.thss.tsinghua.edu.cn/~mlong/)
+* [日本 原田研究所（MCD作者等）](https://www.mi.t.u-tokyo.ac.jp/publication/)	
