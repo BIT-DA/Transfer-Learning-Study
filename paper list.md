@@ -3,6 +3,10 @@
 > 必读1代表马上阅读<br>
 > 必读2代表以后必须读<br>
 *******************
+## 目录
+* [背景介绍](#1. 迁移学习的背景介绍)
+
+*******************
 ## 1. 迁移学习的背景介绍 <br>
 > 这些文章无需讲解，最先阅读，对迁移学习有个浅显了解
 
@@ -23,6 +27,7 @@
 |Prediction Reweighting for Domain Adaptation		|		IEEE TNNLS |	必读1	|	PRDA |
 |Unsupervised Domain Adaptation with Distribution Matching Machines		|		AAAI 2018	| 必读2	|
 
+*******************
 ## 3.特征学习方法及其扩展
 > 主要是浅层优化算法
 
@@ -39,6 +44,7 @@
 |Visual Domain Adaptation with Manifold Embedded Distribution Alignment|ACMMM 2018|必读2||EDA|
 |Adaptation Regularization: A General Framework for Transfer Learning|IEEE TKDE|必读1|		
 
+*******************
 ## 4. 纯深度学习网络结构研究
 > 基础中的基础！推荐先看Stanford CS231n课程，百度搜索即可，可以快速了解深度学习
 
@@ -56,6 +62,7 @@
 |Aggregated Residual Transformations for Deep Neural Networks			|CVPR|必读1||ResNext|
 |Batch Normalization Accelerating Deep Network Training by Reducing Internal Covariate Shift		|ICML|必读1 ||BN|
 
+*******************
 ## 5. 生成对抗网络（GAN）
 | paper | 来源 | 备注 | 代码复现 | 简称 |
 | :----: | :----:  | :----: | :----:  | :----: |
@@ -65,6 +72,7 @@
 |Wasserstein GAN					||必读1		||WGAN|
 |Least Squares Generative Adversarial Networks|				ICCV|	必读2||		LSGAN|
 
+*******************
 ## 6. 深度迁移学习
 > Deep Domain Adaptation，针对分类问题，**研究重点！！**
 
@@ -83,6 +91,7 @@
 |Conditional Adversarial Domain Adaptation|				NIPS 2019|	必读1||		CDAN|
 |Contrastive Adaptation Network for Unsupervised Domain Adaptation|				CVPR 2018	|必读1||		CAN|
 
+*******************
 ## 7. Partial Domain Adaptation （PDA）
 
 | paper | 来源 | 备注 | 代码复现 | 简称 |
@@ -93,6 +102,7 @@
 |Learning to Transfer Examples for Partial Domain Adaptation|CVPR 2019|	必读1|	需要|	ETN|
 Universal Domain Adaptation|				CVPR 2019|	必读2|||
 
+*******************
 ## 8.  迁移学习在Semantic Segmentation中的应用
 
 | paper | 来源 | 备注 | 代码复现 | 简称 |
@@ -103,9 +113,10 @@ Universal Domain Adaptation|				CVPR 2019|	必读2|||
 |CyCADA - Cycle-Consistent Adversarial Domain Adaptation|				ICML|	必读1|	|	CyCADA|
 |Fully Convolutional Adaptation Networks for Semantic Segmentation|				CVPR 2018|	必读1|||		
 |Domain Adaptation for Structured Output via Discriminative Patch Representations|				ICCV 2019	|必读1|||		
-|Taking A Closer Look at Domain Shift: Category-level Adversaries for Semantics Consistent Domain Adaptation|				CVPR 2019|	必读1|||		
+|Taking A Closer Look at Domain Shift: Category-level Adversaries for Semantics Consistent Domain Adaptation|				CVPR 2019|	必读1|||
 |ADVENT: Adversarial Entropy Minimization for Domain Adaptation in Semantic Segmentation|				CVPR 2019|	必读1|		|ADVENT|
 
+*******************
 ## 9. 迁移学习在Object Detection中的应用
 
 | paper | 来源 | 备注 | 代码复现 | 简称 |
@@ -113,12 +124,14 @@ Universal Domain Adaptation|				CVPR 2019|	必读2|||
 |Domain Adaptive Faster R-CNN for Object Detection in the Wild|				CVPR 2018|	必读2|||
 |Multi-adversarial Faster-RCNN for Unrestricted Object Detection|				ICCV 2019|	必读2|||
 
+*******************
 ## 10. 迁移学习在Video Classification中的应用
 
 | paper | 来源 | 备注 | 代码复现 | 简称 |
 | :----: | :----:  | :----: | :----:  | :----: |
 |Temporal Attentive Alignment for Large-Scale Video Domain Adaptation|				ICCV 2019	|必读1|||
 
+*******************
 ## 11. 迁移学习在Person Re-identification中的应用
 
 | paper | 来源 | 备注 | 代码复现 | 简称 |
@@ -126,6 +139,7 @@ Universal Domain Adaptation|				CVPR 2019|	必读2|||
 |Image-Image Domain Adaptation with Preserved Self-Similarity and Domain-Dissimilarity for Person Re-identification|				CVPR 2018|	必读1|||
 |Self-similarity Grouping: A Simple Unsupervised Cross Domain Adaptation Approach for Person Re-identification|				ICCV 2019|	必读1|||
 
+*******************
 ## 12. 迁移学习理论文章
 
 | paper | 来源 | 备注 | 代码复现 | 简称 |
@@ -134,6 +148,7 @@ Universal Domain Adaptation|				CVPR 2019|	必读2|||
 |A Theory of Learning from Different Domains|				|	必读1|		||
 |A Kernel Method for the Two Sample Problem|				NIPS|	必读1|		|MMD的全面分析|
 
+*******************
 ## 其他应该看论文
 
 | paper | 来源 | 备注 | 代码复现 | 简称 |
@@ -141,6 +156,7 @@ Universal Domain Adaptation|				CVPR 2019|	必读2|||
 |Distance Metric Learning for Large Margin Nearest Neighbor Classification|				NIPS|	必读1|	|	LMNN|
 |FaceNet - A Unified Embedding for Face Recognition and Clustering|					必读1|	|	Triplet Loss|
 
+*******************
 ## 顶会接收论文网站
 
 * [CVPR/ICCV/ECCV](http://openaccess.thecvf.com/CVPR2018.py)
