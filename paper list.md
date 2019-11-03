@@ -10,7 +10,7 @@
 * [深度学习](#4纯深度学习网络结构研究)
 * [生成对抗网络](#5生成对抗网络（GAN）)
 * [深度迁移学习](#6深度迁移学习)
-* [Partial-Domain-Adaptation](#7Partial-Domain-Adaptation)
+* [Partial-Domain-Adaptation](#7partial-domain-adaptation-pda)
 * [Semantic Segmentation](#8迁移学习在Semantic-Segmentation中的应用)
 * [Object-Detection](#9迁移学习在Object-Detection中的应用)
 * [Video-Classification](#10迁移学习在Video-Classification中的应用)
