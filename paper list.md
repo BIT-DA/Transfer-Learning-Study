@@ -113,7 +113,7 @@
 Universal Domain Adaptation|				CVPR 2019|	必读2|||
 
 *******************
-## 8. 迁移学习在Semantic Segmentation中的应用
+## 8.迁移学习在Semantic Segmentation中的应用
 
 | paper | 来源 | 备注 | 代码复现 | 简称 |
 | :----: | :----:  | :----: | :----:  | :----: |
