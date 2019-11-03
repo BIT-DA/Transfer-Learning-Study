@@ -4,17 +4,20 @@
 > 必读2代表以后必须读<br>
 *******************
 ## 目录
-* [背景介绍](#1-迁移学习的背景介绍-)
-* [样本加权](#2-样本加权方法-)
-* [特征学习](#3-特征学习方法及其扩展-)
-* [深度学习](#4-纯深度学习网络结构研究-)
-* [生成对抗网络](#5-生成对抗网络（GAN）-)
-* [深度迁移学习](#6-深度迁移学习-)
-* [Partial-Domain-Adaptation](#7-Partial Domain Adaptation-)
-* [Semantic Segmentation](#8-迁移学习在Semantic Segmentation中的应用-)
-* [Object Detection](#9-迁移学习在Object Detection中的应用-)
+* [背景介绍](#1迁移学习的背景介绍)
+* [样本加权](#2样本加权方法)
+* [特征学习](#3特征学习方法及其扩展)
+* [深度学习](#4纯深度学习网络结构研究)
+* [生成对抗网络](#5生成对抗网络（GAN）)
+* [深度迁移学习](#6深度迁移学习)
+* [Partial-Domain-Adaptation](#7Partial-Domain-Adaptation)
+* [Semantic Segmentation](#8迁移学习在Semantic-Segmentation中的应用)
+* [Object-Detection](#9迁移学习在Object-Detection中的应用)
+* [Video-Classification](#10迁移学习在Video-Classification中的应用)
+* [Person Re-identification](#11迁移学习在Person-Re-identification中的应用)
+* [理论文章](#12迁移学习理论文章)
 *******************
-## 1. 迁移学习的背景介绍 <br>
+## 1.迁移学习的背景介绍<br>
 > 这些文章无需讲解，最先阅读，对迁移学习有个浅显了解
 
 | paper | 来源 | 备注 | 代码复现 | 简称 |
@@ -25,7 +28,7 @@
 |Transfer Adaptation Learning：A Decade Survey||必读2||  |
 
 *******************
-## 2. 样本加权方法
+## 2.样本加权方法
 > 这类方法已是很早期的方法了，但是需要了解
 
 | paper | 来源 | 备注 | 代码复现 | 简称 |
@@ -52,7 +55,7 @@
 |Adaptation Regularization: A General Framework for Transfer Learning|IEEE TKDE|必读1|		
 
 *******************
-## 4. 纯深度学习网络结构研究
+## 4.纯深度学习网络结构研究
 > 基础中的基础！推荐先看Stanford CS231n课程，百度搜索即可，可以快速了解深度学习
 
 | paper | 来源 | 备注 | 代码复现 | 简称 |
@@ -70,7 +73,7 @@
 |Batch Normalization Accelerating Deep Network Training by Reducing Internal Covariate Shift		|ICML|必读1 ||BN|
 
 *******************
-## 5. 生成对抗网络（GAN）
+## 5.生成对抗网络（GAN）
 | paper | 来源 | 备注 | 代码复现 | 简称 |
 | :----: | :----:  | :----: | :----:  | :----: |
 |Generative Adversarial Nets				|NIPS	|必读1	|需要	|GAN|
@@ -80,7 +83,7 @@
 |Least Squares Generative Adversarial Networks|				ICCV|	必读2||		LSGAN|
 
 *******************
-## 6. 深度迁移学习
+## 6.深度迁移学习
 > Deep Domain Adaptation，针对分类问题，**研究重点！！**
 
 | paper | 来源 | 备注 | 代码复现 | 简称 |
@@ -99,7 +102,7 @@
 |Contrastive Adaptation Network for Unsupervised Domain Adaptation|				CVPR 2018	|必读1||		CAN|
 
 *******************
-## 7. Partial Domain Adaptation （PDA）
+## 7.Partial Domain Adaptation （PDA）
 
 | paper | 来源 | 备注 | 代码复现 | 简称 |
 | :----: | :----:  | :----: | :----:  | :----: |
@@ -110,7 +113,7 @@
 Universal Domain Adaptation|				CVPR 2019|	必读2|||
 
 *******************
-## 8.  迁移学习在Semantic Segmentation中的应用
+## 8. 迁移学习在Semantic Segmentation中的应用
 
 | paper | 来源 | 备注 | 代码复现 | 简称 |
 | :----: | :----:  | :----: | :----:  | :----: |
@@ -124,7 +127,7 @@ Universal Domain Adaptation|				CVPR 2019|	必读2|||
 |ADVENT: Adversarial Entropy Minimization for Domain Adaptation in Semantic Segmentation|				CVPR 2019|	必读1|		|ADVENT|
 
 *******************
-## 9. 迁移学习在Object Detection中的应用
+## 9.迁移学习在Object Detection中的应用
 
 | paper | 来源 | 备注 | 代码复现 | 简称 |
 | :----: | :----:  | :----: | :----:  | :----: |
@@ -139,7 +142,7 @@ Universal Domain Adaptation|				CVPR 2019|	必读2|||
 |Temporal Attentive Alignment for Large-Scale Video Domain Adaptation|				ICCV 2019	|必读1|||
 
 *******************
-## 11. 迁移学习在Person Re-identification中的应用
+## 11.迁移学习在Person Re-identification中的应用
 
 | paper | 来源 | 备注 | 代码复现 | 简称 |
 | :----: | :----:  | :----: | :----:  | :----: |
@@ -147,7 +150,7 @@ Universal Domain Adaptation|				CVPR 2019|	必读2|||
 |Self-similarity Grouping: A Simple Unsupervised Cross Domain Adaptation Approach for Person Re-identification|				ICCV 2019|	必读1|||
 
 *******************
-## 12. 迁移学习理论文章
+## 12.迁移学习理论文章
 
 | paper | 来源 | 备注 | 代码复现 | 简称 |
 | :----: | :----:  | :----: | :----:  | :----: |
