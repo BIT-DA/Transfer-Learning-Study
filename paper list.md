@@ -100,6 +100,7 @@
 |Bridging Theory and Algorithm for Domain Adaptation|				ICML 2019|	必读1||		MDD|
 |Conditional Adversarial Domain Adaptation|				NIPS 2019|	必读1||		CDAN|
 |Contrastive Adaptation Network for Unsupervised Domain Adaptation|				CVPR 2018	|必读1||		CAN|
+|Transferable Attention for Domain Adaptation|				AAAI 2019|	必读1||		TADA|
 
 *******************
 ## 7.Partial Domain Adaptation （PDA）
