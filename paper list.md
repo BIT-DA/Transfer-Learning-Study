@@ -7,6 +7,12 @@
 * [背景介绍](#1-迁移学习的背景介绍-)
 * [样本加权](#2-样本加权方法-)
 * [特征学习](#3-特征学习方法及其扩展-)
+* [深度学习](#4-纯深度学习网络结构研究-)
+* [生成对抗网络](#5-生成对抗网络（GAN）-)
+* [深度迁移学习](#6-深度迁移学习-)
+* [Partial Domain Adaptation](#7-Partial Domain Adaptation-)
+* [Semantic Segmentation](#8-迁移学习在Semantic Segmentation中的应用-)
+* [Object Detection](#9-迁移学习在Object Detection中的应用-)
 *******************
 ## 1. 迁移学习的背景介绍 <br>
 > 这些文章无需讲解，最先阅读，对迁移学习有个浅显了解
