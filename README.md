@@ -55,9 +55,13 @@
 ### Vision-Language/ prompt learning/ Multimodal<br>
 | paper | 来源 | Novelty | 代码复现 | 简称 |
 | :----: | :----:  | :----: | :----:  | :----: |
-Learning transferable visual models from natural language supervision | ICML | Best | 需要 | CLIP | 
-StyleCLIP: Text-Driven Manipulation of StyleGAN Imagery | ICCV | Best | | StyleCLIP |
-DenseCLIP: Language-Guided Dense Prediction with Context-Aware Prompting | CVPR 2022 | | |  
+Learning transferable visual models from natural language supervision | ICML 2021 | Best | 需要 | CLIP | 
+StyleCLIP: Text-Driven Manipulation of StyleGAN Imagery | ICCV 2021 | Best | | StyleCLIP |
+Learning to Prompt for Vision-Language Models | IJCV 2022 | Oral | | CoOp |
+Open-Vocabulary Object Detection via Vision and Language Knowledge Distillation | ICLR 2022 | Oral | |  VILD |
+OPEN-VOCABULARY OBJECT DETECTION VIA VISION AND LANGUAGE KNOWLEDGE DISTILLATION | ICLR 2022 | Oral | | LSeg | 
+PIX2SEQ: A LANGUAGE MODELING FRAMEWORK FOR OBJECT DETECTION | ICLR 2022 | Oral | | Pix2Seq | 
+DenseCLIP: Language-Guided Dense Prediction with Context-Aware Prompting | CVPR 2022 | Oral | | DenseCLIP|
 *******************
 
 ### Diffusion model<br>
